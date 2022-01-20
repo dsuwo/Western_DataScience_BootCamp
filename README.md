@@ -48,11 +48,11 @@ work together with a broad community of interdisciplinary scholars to discuss da
 2. **Data Principles and Practices: Processing, Cleaning, Visualizing**
     - Where does data come from? Where does data go? Where does data come from, Cotton Eye'd Joe?
     - The unglorious part of data science: checking for typos in your data :cold_sweat:.
-    - A basic introduction to visualization using `Matplotlib`, and data cleaning using `pandas` :panda_face:.
+    - A basic introduction to visualization using `Matplotlib`, and data cleaning using `pandas`.
 3. **Linear Regression**
     - Linear models are explained.
     - Criteri for model selections are discussed.
-    - A basic introduction to modelling with `sklearn` :microscope:.
+    - A basic introduction to modelling with `sklearn`.
 4. **Machine Learning Algorithms**
     - Logistic regression is explained
     - Decision trees, random forests, and gradient decision trees are discussed. 
