@@ -7,7 +7,7 @@
 
 The new year brings new opportunities for learning and professional development.
  
-Western is offering a six-week bootcamp for faculty members called “Data Science Without Tears” - part of ongoing efforts to help build data acumen across campus.
+Western is offering a six-week bootcamp starting from **6th February 2022** for faculty members called “Data Science Without Tears” - part of ongoing efforts to help build data acumen across campus.
  
 The free course takes only eight hours per week over six weeks and will cover the basics of data science. The course includes practical, hands-on exercises in Python notebooks, which are essential tools for data science work that can be accessed through your browser with no setup needed!
  
