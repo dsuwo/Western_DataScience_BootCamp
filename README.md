@@ -23,9 +23,10 @@ The bootcamp will help you:
 Are you ready to take your research to the next level with a better understanding of data science?
 
 See [here](https://www.uwo.ca/datastrategy/data-bootcamp/) for the official descripton.
+
 See [our GitHub](https://github.com/dsuwo/Western_DataScience_BootCamp/) to see more details.  
 
-Register by sending an email to  [here] (dsbootcampuwo@gmail.com)
+Register by sending an [email to] (dsbootcampuwo@gmail.com)
 
 ## Learning Outcomes
 
