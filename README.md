@@ -48,18 +48,18 @@ work together with a broad community of interdisciplinary scholars to discuss da
 2. **Data Principles and Practices: Processing, Cleaning, Visualizing**
     - Where does data come from? Where does data go? Where does data come from, Cotton Eye'd Joe?
     - The unglorious part of data science: checking for typos in your data :cold_sweat:.
-    - :snake: A basic introduction to visualization using `Matplotlib` :bar_chart: and data cleaning using `pandas` :panda_face:.
+    - A basic introduction to visualization using `Matplotlib`, and data cleaning using `pandas` :panda_face:.
 3. **Linear Regression**
     - Linear models are explained.
     - Criteri for model selections are discussed.
-    - :snake: A basic introduction to modelling with `sklearn` :microscope:.
+    - A basic introduction to modelling with `sklearn` :microscope:.
 4. **Machine Learning Algorithms**
     - Logistic regression is explained
     - Decision trees, random forests, and gradient decision trees are discussed. 
-    - :snake: More python example codes related to logistic regression applications.
+    - More python example codes related to logistic regression applications.
 5. **More advanced Models**
     - Neural networks are discussed :crown:.
     - Natral language processing is explained.
-    - :snake: Example of neural networks with `Keras`.
+    - Example of neural networks with `Keras`.
 6. **Worked Examples, Conclusions, and Further Steps**
-    - Data analyses the whole way through :crown:.
+    - Data analyses the whole way through.
