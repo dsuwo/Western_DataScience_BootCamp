@@ -47,7 +47,7 @@ work together with a broad community of interdisciplinary scholars to discuss da
     
 2. **Data Principles and Practices: Processing, Cleaning, Visualizing**
     - Where does data come from? Where does data go? Where does data come from, Cotton Eye'd Joe?
-    - The unglorious part of data science: checking for typos in your data :cold_sweat:.
+    - The unglorious part of data science: checking for typos in your data.
     - A basic introduction to visualization using `Matplotlib`, and data cleaning using `pandas`.
 3. **Linear Regression**
     - Linear models are explained.
@@ -58,7 +58,7 @@ work together with a broad community of interdisciplinary scholars to discuss da
     - Decision trees, random forests, and gradient decision trees are discussed. 
     - More python example codes related to logistic regression applications.
 5. **More advanced Models**
-    - Neural networks are discussed :crown:.
+    - Neural networks are discussed.
     - Natral language processing is explained.
     - Example of neural networks with `Keras`.
 6. **Worked Examples, Conclusions, and Further Steps**
