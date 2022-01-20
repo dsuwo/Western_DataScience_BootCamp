@@ -26,7 +26,7 @@ See [here](https://www.uwo.ca/datastrategy/data-bootcamp/) for the official desc
 
 See [our GitHub](https://github.com/dsuwo/Western_DataScience_BootCamp/) to see more details.  
 
-Register by sending an [email to] (dsbootcampuwo@gmail.com)
+Register by sending an email to (dsbootcampuwo@gmail.com)
 
 ## Learning Outcomes
 
