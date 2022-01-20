@@ -2,6 +2,8 @@
 
 # Data Science Without Tears
 
+<img align="right" src="shampoobottle.png" width=425px>
+
 
 The new year brings new opportunities for learning and professional development.
  
