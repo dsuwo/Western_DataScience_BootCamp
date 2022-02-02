@@ -46,6 +46,7 @@ work together with a broad community of interdisciplinary scholars to discuss da
     - Examples of data science from real life.
     - A brief review on some popular machine learning algorithms.
     - Introduction to Python.
+    - Ethics and machine learning. 
     
 2. **Data Principles and Practices: Processing, Cleaning, Visualizing**
     - Where does data come from? Where does data go? Where does data come from, Cotton Eye'd Joe?
