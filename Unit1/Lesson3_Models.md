@@ -35,6 +35,8 @@ We just want you to get a sense of what's available.
 
 # Supervised and Unsupervised Algorithms
 
+Watch this vidoe! :)
+
 [![Link to YouTube Video](https://img.youtube.com/vi/3hr03qPD51M/0.jpg)](https://www.youtube.com/watch?v=3hr03qPD51M)
 
 Machine learning algorithms can be categorized to two major categories: supervised models and unsupervised models. In the supervised approach, during the training the algorithm is trying to learn a mapping function between the input features (variables) and target values (labels). In other words, we know the right answer (label) and we make the model try to guess the answer based on the information we provide.
