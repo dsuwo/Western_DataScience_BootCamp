@@ -59,6 +59,7 @@ Ghazal, Devan, and Alexis come from different disciplines but they all use ML in
 
 
 # Ghazal - Physics
+Ghazal explained her work in the following Video (Just click on the picture to get into the video!)
 
 [![Link to YouTube Video](https://img.youtube.com/vi/2XShOtIfX1M/0.jpg)](https://www.youtube.com/watch?v=2XShOtIfX1M)
 
