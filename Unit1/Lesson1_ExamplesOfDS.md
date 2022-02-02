@@ -59,7 +59,7 @@ Ghazal, Devan, and Alexis come from different disciplines but they all use ML in
 
 
 # Ghazal - Physics
-Ghazal explained her work in the following Video (Just click on the picture to get into the video!)
+Ghazal explained her work in the following video (Just click on the picture to get into the video!)
 
 [![Link to YouTube Video](https://img.youtube.com/vi/2XShOtIfX1M/0.jpg)](https://www.youtube.com/watch?v=2XShOtIfX1M)
 
@@ -76,6 +76,7 @@ Each of these clusters have a physical meaning (Yes, I did a PhD in physics!). T
 
 
 # Alexis - Political Science 
+Alexis (Who previvously was part of the data camp) explained her work in the following video (Just click on the picture to get into the video!)
 
 [![Link to YouTube Video](https://img.youtube.com/vi/jwVy6ByS5BE/0.jpg)](https://www.youtube.com/watch?v=jwVy6ByS5BE)
 
@@ -110,6 +111,7 @@ Random Forest creates a 'forest' of decision trees, and then combines their outp
 3. DS: These are the variables I focus on in logistic regression models
 
 # Devan - Statistics
+Devan (Who previvously was part of the data camp) explained her work in the following video (Just click on the picture to get into the video!)
 
 [![Link to YouTube Video](https://img.youtube.com/vi/aJLIjYd74uk/0.jpg)](https://www.youtube.com/watch?v=aJLIjYd74uk)
 
