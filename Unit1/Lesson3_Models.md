@@ -86,7 +86,7 @@ We use a logistic function (the S curve shown above) to try to best fit the data
 
 ## Decision Trees
 
-<img src="figs/decision.png" width=480>
+<img src="figs/decisiontree_example.PNG" width=480>
 
 In a decision tree, a tree-like model of decisions (choices of variables) and their possible outcomes is displayed. Decision trees are used for both regression and classification tasks. More on this algorithm can be found in Unit 4 (lesson 3).
 
