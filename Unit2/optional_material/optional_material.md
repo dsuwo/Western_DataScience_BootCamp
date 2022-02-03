@@ -1,0 +1,1 @@
+In this section, we are going to talk more about visualization techniques using Python programming language. Although, the material is within the scope of "optional" going through them and learning them is highly recommended. 
