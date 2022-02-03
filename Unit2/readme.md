@@ -8,6 +8,7 @@ we are focusing on data. One major part of data science is related to dealing wi
  
 https://www.youtube.com/watch?v=5imWdw_g4AI
 - Lesson 4: It is a small data project designed to review what has been taught in this unit. The project is explained in the following videos. 
+
 https://www.youtube.com/watch?v=X5WYbERGQ0g
 
 https://www.youtube.com/watch?v=VmTNwR1RV70
