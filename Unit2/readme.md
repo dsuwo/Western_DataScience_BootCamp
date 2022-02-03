@@ -5,7 +5,7 @@ we are focusing on data. One major part of data science is related to dealing wi
 - Lesson 1: We explore the basics of data cleaning.
 - Lesson 2: To load csv files python provides us with a useful library which we explore in this lesson.
 - Lesson 3: Data visualization plays an important role in our understanding of data. Matplotlib is a library in Python which helps us to make meaningful plots and graphs.
-- Lesson 4: It is :
+- Lesson 4: It is a small data project designed to review what has been taught in this unit. The project is explained in the following videos. 
 https://www.youtube.com/watch?v=X5WYbERGQ0g
 https://www.youtube.com/watch?v=VmTNwR1RV70
 
