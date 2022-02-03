@@ -127,7 +127,7 @@ SVM used for classification tasks. The algorithm finds the separation (between c
 
 # An overall View on Data Science: 
 In this video, an overall overview of data science is provided: 
-[![Link to YouTube Video](https://www.youtube.com/watch?v=MQkYsu7WmOc)
+[![Link to YouTube Video](https://img.youtube.com/vi/MQkYsu7WmOc/0.jpg)](https://www.youtube.com/watch?v=MQkYsu7WmOc)
 
 # Summary
 
