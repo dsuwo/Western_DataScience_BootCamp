@@ -125,7 +125,9 @@ SVM used for classification tasks. The algorithm finds the separation (between c
 
 - K-means is a non parametric unsupervised model (no labels are provided). The goal in K-means is to organize data such that similar data belongs to the same cluster. A cluster contains a set of data points, data within each cluster are similar to each other and are dissimilar to data points from other clusters. More on K-mean is provides in Unit 5 lesson 1. 
 
-
+# An overall View on Data Science: 
+In this video, an overall overview of data science is provided: 
+[![Link to YouTube Video](https://www.youtube.com/watch?v=MQkYsu7WmOc)
 
 # Summary
 
