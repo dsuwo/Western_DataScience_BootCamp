@@ -5,5 +5,5 @@ we are focuing on data. One major part of data science is related to dealing wit
 https://www.youtube.com/watch?v=X5WYbERGQ0g
 https://www.youtube.com/watch?v=VmTNwR1RV70
 
-[![Link to YouTube Video](https://img.youtube.com/vi/v=X5WYbERGQ0g/0.jpg)](https://www.youtube.com/watch?v=X5WYbERGQ0g)
+[![Link to YouTube Video](https://img.youtube.com/vi/X5WYbERGQ0g/0.jpg)](https://www.youtube.com/watch?v=X5WYbERGQ0g)
 
