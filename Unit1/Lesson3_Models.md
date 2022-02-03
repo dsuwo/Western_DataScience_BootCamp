@@ -24,18 +24,12 @@ By doing the same things over and over again, you learn about the system——ho
 
 There are loads of different types of models: linear models, logistic models, optimization models, network models, and more.  
 
-In the following slides, we will take you on a tour of some of the most common DS and ML models. 
-
-Don't worry — you don't need to know all of these! In fact, very few people have mastered *all* models. 
-
-Rather, the objective is to know what models exist, so you may choose the most appropriate ones for your own data. 
-We just want you to get a sense of what's available. 
-
-
+In the following section, we will take you on a tour of some of the most common DS and ML models. 
+ 
 
 # Supervised and Unsupervised Algorithms
 
-Watch this vidoe! :)
+Watch this vidoe! 
 
 [![Link to YouTube Video](https://img.youtube.com/vi/3hr03qPD51M/0.jpg)](https://www.youtube.com/watch?v=3hr03qPD51M)
 
@@ -55,7 +49,7 @@ Classification Example:
 - Predicting the probabilty of death from heart disease based on paitents' age, gender, blood pressure, and blood cholesterol level (paitent either survives or not)
 - Predicting if an Amazon Prime User will unsubscribe their membership based on number of their visit, their location, and the number of times they returned a product. 
 
-<img src="figs/classfication.png" width=480px>
+<img src="figs/classfication_vs_regression.png" width=480px>
 
 Source of Figure: https://www.javatpoint.com/regression-vs-classification-in-machine-learning 
 
