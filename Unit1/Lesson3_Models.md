@@ -104,8 +104,8 @@ SVM used for classification tasks. The algorithm finds the separation (between c
 ## Examples of Unsupervised Learning 
 
 ## Principle Components Analsysis (PCA)
-    - PCA is a method to reduce the dimensionality of data (for example, to reduce 10 variables down to 2).
-    - PCA is a **linear** dimension reduction method seeking to maximize varaiance (informal description: things that are different will end up far apart while similar things end up close to each other). 
+- PCA is a method to reduce the dimensionality of data (for example, to reduce 10 variables down to 2).
+- PCA is a **linear** dimension reduction method seeking to maximize varaiance (informal description: things that are different will end up far apart while similar things end up close to each other). 
 
     
 <img src="figs/PCA.png" width=280>
