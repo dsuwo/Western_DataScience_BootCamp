@@ -10,8 +10,7 @@ Lesson 2: Where data come from, and how (where) they can be stored.
 Lesson 3: A brief introduction to some of the popular machine learning algorithms.
 
 Code 0: A very basic introduction to Python. The Google Colab link: 
-
-https://colab.research.google.com/drive/1YQGG9u156WxbGx0iezoDAbmijFpCwSSX?usp=sharing
+https://colab.research.google.com/drive/1EeifUb7bH2xOdi2TXAzgBAxCt5ehNRkT?authuser=3
 
 Ethics: An introduction to the important topic of ethics in artificial intelligence. 
 
