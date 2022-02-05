@@ -1,6 +1,6 @@
 <img align="center" src="western_logo.png" width=425px>
 
-# Data Science Without Tears
+# Introduction to Data Science 
 
 <!-- %<img align="right" src="shampoobottle.png" width=225px>
  -->
