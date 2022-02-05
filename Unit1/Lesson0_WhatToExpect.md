@@ -3,9 +3,8 @@ title: "What to Expect in These Modules"
 ---
 
 
-# Welcome to Data Science Without Tears!
+# Welcome to Data Science Bootcamp!
 
-<img align="right" src="../figs/shampoobottle.png" width=225px>
 
 In the next 6 weeks, we'll cover:
 
