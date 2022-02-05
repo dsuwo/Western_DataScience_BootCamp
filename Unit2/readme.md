@@ -11,8 +11,10 @@ https://www.youtube.com/watch?v=5imWdw_g4AI
 The google colab: 
 https://colab.research.google.com/drive/1mDTdQlAaFjw6Jt3WbLSQgCEFhl6SflrX?authuser=1
 
-- Lesson 4: It is a small data project designed to review what has been taught in this unit. The project is explained in the following videos. 
+- Lesson 4: It is a small data project designed to review what has been taught in this unit. 
 The Google colab: https://colab.research.google.com/drive/1gwCKiq6_bPi7tt1_Uxn3VsjKBQZR3nyO?authuser=1
+
+The project is explained in the following videos: 
 
 https://www.youtube.com/watch?v=X5WYbERGQ0g
 
