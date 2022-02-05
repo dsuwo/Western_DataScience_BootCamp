@@ -7,6 +7,7 @@ we are focusing on data. One major part of data science is related to dealing wi
 - Lesson 3: Data visualization plays an important role in our understanding of data. Matplotlib is a library in Python which helps us to make meaningful plots and graphs. A short video summerizing the lesson is provided as well:
  
 https://www.youtube.com/watch?v=5imWdw_g4AI
+
 The google colab: 
 https://colab.research.google.com/drive/1mDTdQlAaFjw6Jt3WbLSQgCEFhl6SflrX?authuser=1
 
