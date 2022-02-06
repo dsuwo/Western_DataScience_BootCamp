@@ -5,6 +5,7 @@ title: "What to Expect in These Modules"
 
 # Welcome to Data Science Bootcamp!
 
+https://www.youtube.com/watch?v=7h0prf4LWDE
 
 In the next 6 weeks, we'll cover:
 
