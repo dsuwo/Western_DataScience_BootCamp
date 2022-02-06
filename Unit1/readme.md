@@ -14,4 +14,10 @@ https://colab.research.google.com/drive/1EeifUb7bH2xOdi2TXAzgBAxCt5ehNRkT?usp=sh
 
 Ethics: An introduction to the important topic of ethics in artificial intelligence. 
 
+If you are interested to install Anaconda on your Macbook: 
+
+https://www.youtube.com/watch?v=6NF2iybWsPk
+
+https://www.youtube.com/watch?v=3B0Zl6Pr8fQ
+
 
