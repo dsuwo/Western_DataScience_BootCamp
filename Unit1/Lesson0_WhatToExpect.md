@@ -53,7 +53,7 @@ The final projects will be peer-reviewed by other participants.
     
 # Office Hours
 
-- Course instructor will be available during synchronous office hours from 3-4 PM EST on Thursdays (access link via OWL) to discuss course materials and to help you to become a successful Data Scientist! 
+- Course instructor will be available during synchronous office hours from 2:30-3:30 PM EST on Wednesdays (access link is communicated via email) to discuss course materials and to help you to become a successful Data Scientist! 
     - We're NOT consultants (sorry)
         - See Western's Data Science Solutions for consultations.
 - You are always welcome to post questions to our Data Science Without Tears discussion board on OWL. Your colleagues might have the same questions that you do!
