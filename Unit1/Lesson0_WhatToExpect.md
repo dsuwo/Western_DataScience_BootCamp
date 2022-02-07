@@ -39,8 +39,12 @@ In the next 6 weeks, we'll cover:
 - Deliver the final project.
 
 # What is the Final Project
+Participants can choose from one of these two options:
+- You will form small teams (maximum of 3 participants). Each team will be provided with a machine learning project (delivarable by the end of the BootCamp).
+- You will write a mock research grant/statement/proposal on using data science for your research.
 
-- You will form small teams (maximum of 3 participants). Each team will be provided with a machine learning project (delivarable by the end of the BootCamp).  
+The final projects are deliverable in the form of maximum 3 pages of report (or a 5 minutes recorded presentation).
+The final projects will be peer-reviewed by other participants.   
 
 # Your Instructor
 
