@@ -24,7 +24,6 @@ Are you ready to take your research to the next level with a better understandin
 
 See [here](https://www.uwo.ca/datastrategy/data-bootcamp/) for the official descripton.
 
-Register by sending an email to **dsbootcampuwo@gmail.com**
 
 ## Learning Outcomes
 
