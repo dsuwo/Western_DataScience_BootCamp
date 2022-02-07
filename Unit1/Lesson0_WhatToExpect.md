@@ -64,14 +64,13 @@ The final projects will be peer-reviewed by other participants.
 - We will use a few websites in this course:
     
     1. GitHub
-        - All course materials (including drafts) will also be housed on GitHub. You will need a free account. This gives participants a voluntary opportunity to familiarize themselves with a popular collaborative version management platform.
+        - All course materials (including drafts) will be housed on GitHub. This gives participants a voluntary opportunity to familiarize themselves with a popular collaborative version management platform.
     2. Google Colab 
         - Colab is a Python development environment that runs in the browser using Google Cloud.
-        - We'll use Google Colab to share Python code with you
 
 # Who Made the Contents of this BootCamp
 
-Ghazal Farhani, Devan Becker, and Alexis Lerner developed the contents of this bootcamp. Devan and Alex has left the program, however, they have provided some amazing videos related to the material of this BootCamp. 
+Ghazal Farhani, Devan Becker, and Alexis Lerner developed the contents of this bootcamp. Devan and Alex has left the program, however, they have provided some amazing videos and materials for this BootCamp. 
 
 # Let's Get Started!
 
