@@ -40,6 +40,7 @@ work together with a broad community of interdisciplinary scholars to discuss da
 
 ## Session Schedule
 
+
 1. **Introduction to Data Science **
     - A brief overview of what data science is and the models that it uses.
     - Examples of data science from real life.
