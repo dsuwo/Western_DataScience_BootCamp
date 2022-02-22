@@ -20,4 +20,7 @@ https://www.youtube.com/watch?v=X5WYbERGQ0g
 
 https://www.youtube.com/watch?v=VmTNwR1RV70
 
+- To see how to upload files in Google Colab watch this short video:
+
+https://www.youtube.com/watch?v=y5Upmtoivh4
 
