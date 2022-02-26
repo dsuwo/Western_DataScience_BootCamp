@@ -1,7 +1,7 @@
 
 The focus of this Unit is on linear regression, model selection and validation methods.
 - Lesson 1: Linear regression is explained.
-- Lesson 2: Hands-on linear regression check the Youtube Video for that:
+- Lesson 2: Hands-on linear regression. Check the Youtube Video for that:
 
 https://www.youtube.com/watch?v=2lr_sba8iuM
 
