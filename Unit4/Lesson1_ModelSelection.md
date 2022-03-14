@@ -71,7 +71,7 @@ As shown in the above plot, diagonal elements of the confusion matrix correspond
 
 
 
-# Model Output: Model Hyperparameters
+# Model Hyperparameters
 
 Models need more parameters that can't be estimated/ learned from the data. Rather we need to **"tune"** these parameters for the optimal result. The tuning process can be a set of trial and errors. Models can have some important hyperparameters. In "Code_KMeansAndHyperparameter.ipynb" notebook we show an example of hyperparameter tuning for Kmean clustering algorithm.
 
@@ -80,7 +80,7 @@ While reading through this notebook, keep in mind that we're demonstrating hyper
 
  
 
-# Model Output: Feature Importance
+# Feature Importance
 
 In the training phase of a predictive model, different features/variables are used. Some features might be more important/useful to make predictions. Feature importance refers to class of techniques that assign weights to input features so that features that are more critical in prediction have higher weights. As feature importance gives insights about data it plays an important role in dimension reduction tasks as well as feature selection (to build predictive models). Here, we explore feature importance calculations for some algorithms:
 
