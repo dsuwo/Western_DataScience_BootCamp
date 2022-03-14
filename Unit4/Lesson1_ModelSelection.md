@@ -124,7 +124,7 @@ Feature importance is measured as a single value for each feature, but it's much
 <img src="figs/f_importance.png" width=480>
 
  
- # Unit 1, Lesson 1 Wrap-up 
+ # Unit 4, Lesson 1 Wrap-up 
 
 In this lesson, we:
 - [x] Defined and understood the difference between parameters and hyperparameters 
